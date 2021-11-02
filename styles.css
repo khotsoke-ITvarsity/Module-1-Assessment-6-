@@ -1,0 +1,52 @@
+
+.topnav {
+  background-color: darkslategray;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: darkseagreen;
+  color: white;
+}
+
+body {
+  background-color:gainsboro;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+ font-family: 'Brush Script MT', cursive;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50; 
+}
+body {
+  font-family: 'Times New Roman', serif;
+}
+
